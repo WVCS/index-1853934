@@ -1,3 +1,31 @@
-body {
+h2 {
+  color: red;
+  border: dotted 5px green;
+  font-size: 40px;
+  background-color: dodgerblue;
+}
 
+body{
+  background-color: black;
+}
+
+li, p {
+  color: Yellow;
+   font-size: 25px;
+  margin-left: 80px;
+}
+
+table, tr, td {
+  border: 2px yellow;
+  border-collapse: collapse;
+  padding: 20px;
+  text-align: center;
+}
+
+table {
+  width: 60%
+}
+
+tr:hover {
+  background-color: green;
 }
