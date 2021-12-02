@@ -9,10 +9,24 @@ body{
   background-color: black;
 }
 
-li, p {
-  color: Yellow;
-   font-size: 25px;
-  margin-left: 80px;
+ul {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  background-color: #F3CA40;
+  font-size: 25px;
+}
+
+li a {
+  display: block;
+  float: left;
+  padding: 20px 100px;
+  font-size: 25px;
+}
+
+li a:hover {
+  background-color: #91F291;
+  color: black;
 }
 
 table, tr, td {
