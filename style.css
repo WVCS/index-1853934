@@ -9,6 +9,11 @@ body{
   background-color: black;
 }
 
+p {
+  color: blue;
+  font-size: 25px;
+}
+
 table, tr, td {
   border: 2px yellow;
   border-collapse: collapse;
