@@ -47,3 +47,8 @@ li a {
 li a:hover {
   background-color: #91F291;
   color: black;
+  
+div {
+  background color: #7B8CDE;
+  font-size: 43px;
+  }
